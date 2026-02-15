@@ -14,10 +14,11 @@ An end-to-end data analysis project investigating **Lifestyle Inflation** and **
 * **Emergency Fund Gap:** The largest single-month deficit ($7,485) would have depleted a standard 3-month safety net by 40%.
 
 ## Visualizations
-*(Insert your Income vs. Expenses chart image here)*
+<img width="1350" height="594" alt="image" src="https://github.com/user-attachments/assets/cd6bd003-f0b0-467e-aeb0-f0fdb59cad0f" />
 
 ## How to Run
 1. Clone the repo.
 2. Install dependencies: `pip install pandas seaborn matplotlib`.
 
 3. Run `jupyter notebook`.
+
